@@ -2,6 +2,8 @@
 
 Data Form：https://docs.google.com/spreadsheets/d/1Tm0ubRN7sQ1MwMuzfZiMSCDBwEFCKQN4f8jXEjdoMAM/edit?usp=sharing
 
+My Data.World:https://data.world/junyu-wei/assignment-1-data-collection-and-curation
+
 The data is collected from Junyu Wei, and the source data is approved by the person filling out the form.
 
 This Form has 4 questions: Do you drink coffee daily? (Yes/No) How many coffee you drink daily (Starbucks Grande cup)? (Single choice) Why do you drink coffee? (multiple choice) Do you think coffee works for you? (single choice)
